@@ -1,7 +1,7 @@
 # Health-and-Demographic-Patterns-in-South-Africa-HDPSA-Data-Mining
 
 ## Overview
-This project applies the CRISP-DM (Cross Industry Standard Process for Data Mining) methodology to analyze public health and demographic datasets in South Africa. 
+Collaborated in applying the CRISP-DM (Cross Industry Standard Process for Data Mining) methodology to analyze public health and demographic datasets in South Africa. 
 
 The goal was to identify patterns between healthcare access, sanitation, literacy, nutrition, and mortality rates using data mining and business intelligence techniques.
 
